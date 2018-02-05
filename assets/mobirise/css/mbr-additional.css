@@ -97,6 +97,21 @@
 #msg-box4-9 .mbr-article {
   color: #ffffff;
 }
+#content5-c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-c .mbr-article {
+  color: #fff;
+}
+#content5-c .mbr-article P {
+  text-align: center;
+  color: #a1a1a1;
+}
 #content1-b P {
   text-align: center;
 }
