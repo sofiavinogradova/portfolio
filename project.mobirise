@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-04_1713",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -90,7 +90,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/166.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/172.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -507,7 +507,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/271.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -587,7 +587,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/166.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/172.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -600,7 +600,7 @@
             "overlayColor": "#c1c1c1",
             "overlayOpacity": "0.2"
           },
-          "title": "3ds Max",
+          "title": "3DS MAX",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
