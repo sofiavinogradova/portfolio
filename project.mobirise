@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-04_1713",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -39,7 +39,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -59,7 +59,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
           },
@@ -90,7 +90,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/160.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/164.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -507,7 +507,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/259.jpg",
+              "src": "@PROJECT_PATH@/assets/images/263.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -587,7 +587,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/160.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/164.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -617,7 +617,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -637,7 +637,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#cccccc",
-            "fontSize": "1",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff"
           },
