@@ -2363,10 +2363,10 @@ body {
 .cid-qIOKl8JItP {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/1.jpg");
+  background-image: url("../../../assets/images/3dsmax.jpg");
 }
 .cid-qIOKoH1aea {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
@@ -2930,8 +2930,8 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: #c1c1c1;
+  background: linear-gradient(to left, #c1c1c1, #c1c1c1) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -2940,7 +2940,7 @@ body {
   background: transparent !important;
 }
 .cid-qIXYHS2kSh .mbr-gallery-item > div:hover:before {
-  opacity: 0 !important;
+  opacity: 0.3 !important;
 }
 .cid-qIXYHS2kSh .mbr-gallery-title {
   font-size: .9em;
@@ -2960,9 +2960,9 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
+  background: #c1c1c1 !important;
+  background: linear-gradient(to left, #c1c1c1, #c1c1c1) !important;
+  opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
@@ -3570,7 +3570,7 @@ body {
   background-image: url("../../../assets/images/revit.jpg");
 }
 .cid-qIY73Yz1fd {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
